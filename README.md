@@ -23,8 +23,9 @@ En este ultimo ejercicio el menú de navegación consta de al menos tres enlaces
 
 ## Descripcion De Los Codigos
 
-### Archivo ejercicio.html
+### Archivo ejercicio1.html
 
+![image](https://github.com/AlexRuales2/EJERCICIOS/assets/160562299/bd658aa0-a8f9-4d83-bcfa-0fa115c176e6)
 
 
 
